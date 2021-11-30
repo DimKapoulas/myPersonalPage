@@ -9,8 +9,8 @@
         class="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start"
       >
         <a
-          class="text-lg font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
-          href="https://www.creative-tim.com/learning-lab/tailwind-starter-kit#/presentation"
+          class="text-md font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase text-white"
+          href="#"
           >Dimitris Kapoulas</a
         ><button
           class="cursor-pointer text-xl leading-none px-3 py-1 border border-solid border-transparent rounded bg-transparent block lg:hidden outline-none focus:outline-none"
@@ -27,24 +27,15 @@
         <ul class="flex flex-col lg:flex-row list-none mr-auto">
         </ul>
         <ul class="flex flex-col lg:flex-row list-none lg:ml-auto">
+          <!-- Icon1 -->
           <li class="flex items-center">
             <a
               class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
+              href="https://gr.linkedin.com/in/dimitris-kapoulas  "
               ><i
-                class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
+                class="lg:text-gray-300 text-gray-500 fab fa-linkedin text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Share</span></a
-            >
-          </li>
-          <li class="flex items-center">
-            <a
-              class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-              href="#pablo"
-              ><i
-                class="lg:text-gray-300 text-gray-500 fab fa-twitter text-lg leading-lg "
-              ></i
-              ><span class="lg:hidden inline-block ml-2">Tweet</span></a
+              ><span class="lg:hidden inline-block ml-2">Linkedin</span></a
             >
           </li>
           <li class="flex items-center">
@@ -54,10 +45,21 @@
               ><i
                 class="lg:text-gray-300 text-gray-500 fab fa-github text-lg leading-lg "
               ></i
-              ><span class="lg:hidden inline-block ml-2">Star</span></a
+              ><span class="lg:hidden inline-block ml-2">GitHub</span></a
             >
           </li>
+          <!-- Icon3 -->
           <li class="flex items-center">
+            <a
+              class="lg:text-white lg:hover:text-gray-300 text-gray-800 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
+              href="https://www.facebook.com/dimitris.kapoulas.5832"
+              ><i
+                class="lg:text-gray-300 text-gray-500 fab fa-facebook text-lg leading-lg "
+              ></i
+              ><span class="lg:hidden inline-block ml-2">Facebook</span></a
+            >
+          </li>
+          <!-- <li class="flex items-center">
             <button
               class="bg-white text-gray-800 active:bg-gray-100 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3"
               type="button"
@@ -65,7 +67,7 @@
             >
               <i class="fas fa-arrow-alt-circle-down"></i> Download
             </button>
-          </li>
+          </li> -->
         </ul>
       </div>
     </div>

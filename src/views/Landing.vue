@@ -20,12 +20,12 @@
             <div class="w-full lg:w-6/12 px-4 ml-auto mr-auto text-center">
               <div class="pr-12">
                 <h1 class="text-white font-semibold text-5xl">
-                  Your story starts with us.
+                  Developing greater ideas.
                 </h1>
                 <p class="mt-4 text-lg text-gray-300">
-                  This is a simple example of a Landing Page you can build using
-                  Tailwind Starter Kit. It features multiple CSS components
-                  based on the Tailwindcss design system.
+                  My name is Dimitris Kapoulas and I welcome you to my personal page.
+                  I am a developer and here you will find information about who I am,
+                  what I do and the projects I am involved in.
                 </p>
               </div>
             </div>
@@ -62,12 +62,11 @@
                   <div
                     class="text-white p-3 text-center inline-flex items-center justify-center w-12 h-12 mb-5 shadow-lg rounded-full bg-red-400"
                   >
-                    <i class="fas fa-award"></i>
+                    <i class="fas fa-drafting-compass"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Awarded Agency</h6>
+                  <h6 class="text-xl font-semibold">Test Driven Development</h6>
                   <p class="mt-2 mb-4 text-gray-600">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                    Putting emphasis into 
                   </p>
                 </div>
               </div>
